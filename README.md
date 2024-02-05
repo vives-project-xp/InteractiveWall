@@ -1,4 +1,6 @@
-# InteractiveWall
+# What is the interactive wall?
+
+The interactive wall is a wall with tiles that are touch sensitive using the capacitive touch sensing technology of the Bare Conductive Touch board. Each tile has its own output sound that comes from a speaker.
 
 ## Table of content
 - [Introduction](#introduction)
