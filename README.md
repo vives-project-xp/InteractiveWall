@@ -8,7 +8,7 @@
 - [Software](#software)
 - [Team-members and their roles](#team-membersandtheirroles)
 - [The Sprints](#thesprints)
-- [Future improvments](#future-improvments)
+- [Future improvements](#future-improvments)
 - [BOM](#BOM)
 - [Sources and links](#sources-and-links)
 - [Licences and author info](#Licences-and-author-info)
