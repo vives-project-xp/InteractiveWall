@@ -16,3 +16,9 @@ The interactive wall is a wall with tiles that are touch sensitive using the cap
 - [Licences and author info](#Licences-and-author-info)
 
 
+##  Introduction 
+
+This is the READ.ME of the project  "Interactive Wall" which was created as a part of the coursework. This will contain information about the project, the requirements, the software used and the hardware implemented. It will also go over the team-members and their diverse roles in the projetc.
+
+## Discription
+The interactive wall is a wall with tiles that are touch sensitive using the capacitive touch sensing technology of the Bare Conductive Touch board. Each tile has its own output sound that comes from a speaker. The projetc contains a Animal-soundbord and a Piano-soundbord.
