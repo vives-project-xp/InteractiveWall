@@ -6,7 +6,7 @@ The interactive wall is a wall with tiles that are touch sensitive using the cap
 [Luca De Clerck](https://github.com/LucaClrk)  
 [Simon Haesaert](https://github.com/simonJIM)  
 [William Rogov](https://github.com/Rwill03)  
-[Xander De smet](https://github.com/Sha88y)  
+[Xander De Smet](https://github.com/Sha88y)  
 
 ## Table of content
 - [What is the interactive wall?](#what-is-the-interactive-wall)
@@ -63,7 +63,7 @@ For hardware the microcontroller will be used. We also use a AC/DC Power adapter
 - Luca De Clerck: Scrum Master
 - Simon Haesaert: Team member
 - William Rogov: Team member
-- Xander De smet: Team member
+- Xander De Smet: Team member
 
 ## Future Improvements
 /
