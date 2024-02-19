@@ -2,6 +2,12 @@
 
 The interactive wall is a wall with tiles that are touch sensitive using the capacitive touch sensing technology of the Bare Conductive Touch board. Each tile has its own output sound that comes from a speaker.
 
+## The Team
+[Luca De Clerck](https://github.com/LucaClrk)
+[Simon Haesaert](https://github.com/simonJIM)
+[William Rogov](https://github.com/Rwill03)
+[Unknown](https://github.com/Sha88y)
+
 ## Table of content
 - [Introduction](#introduction)
 - [Discription](#technologies-used)
