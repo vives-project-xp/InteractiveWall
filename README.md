@@ -6,7 +6,7 @@ The interactive wall is a wall with tiles that are touch sensitive using the cap
 [Luca De Clerck](https://github.com/LucaClrk)  
 [Simon Haesaert](https://github.com/simonJIM)  
 [William Rogov](https://github.com/Rwill03)  
-[Xander Desmet](https://github.com/Sha88y)  
+[Xander De Smet](https://github.com/Sha88y)  
 
 ## Table of content
 - [What is the interactive wall?](#what-is-the-interactive-wall)
@@ -28,6 +28,17 @@ The interactive wall is a wall with tiles that are touch sensitive using the cap
 This is the READ.ME of the project  "Interactive Wall" which was created as a part of the coursework. This will contain information about the project, the requirements, the software used and the hardware implemented. It will also go over the team-members and their diverse roles in the projetc.
 
 ## Discription
+<<<<<<< HEAD
+The interactive wall is a wall with tiles that are touch sensitive using the capacitive touch sensing technology of the Bare Conductive Touch board. Each tile has its own output sound that comes from a speaker. The project contains a Animal-soundbord and a Piano-soundbord.
+
+## installation
+
+The project works with a plug-and-play concept, which makes it user-friendly and easy to modify and expaned. 
+
+To modify/change the audiofiles that play after an input requires an ssd-adapter. 
+
+After the ssd is plugged in, you upload the desired audiofiles on to the ssd. The files should be named after their respected input. For example: If you desire that "sound_1" will play after the "input 2 is triggered", then the name of the audiofile should change to "002".
+=======
 The interactive wall is a wall with tiles that are touch sensitive using the capacitive touch sensing technology of the Bare Conductive Touch board. Each tile has its own output sound that comes from a speaker. The projetc contains a Animal-soundbord and a Piano-soundbord.
 
 ## Bare Conductive Touch board
@@ -52,10 +63,11 @@ For hardware the microcontroller will be used. We also use a AC/DC Power adapter
 - Luca De Clerck: Scrum Master
 - Simon Haesaert: Team member
 - William Rogov: Team member
-- Xander Desmet: Team member
+- Xander De Smet: Team member
 
 ## Future Improvements
 /
 
 ## Sources
 [bareconductive.com](https://www.bareconductive.com/)
+>>>>>>> 9c44dc6adf0b26b5e4f7a68aec47ef9d0c11f427
