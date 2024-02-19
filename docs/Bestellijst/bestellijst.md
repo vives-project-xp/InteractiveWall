@@ -1,7 +1,6 @@
 ## Bestellijst 
 
 | Product | Winkel | Prijs | Aantal | Totaal | Link | Referentienummer |  
-| Cramolin GRAPHIT 1281411 Geleidende verf 200 ml | Conrad | € 15,99 | 2 | €31,98 |  https://www.conrad.be/nl/p/cramolin-graphit-1281411-geleidende-verf-200-ml-820571.html | 820571 - 62 |
 
 | MDF plaat 244x122 cm 3mm wit | HUBO | €17,99 | 1 | €17,99 | https://www.hubo.be/nl/p/mdf-plaat-244x122-cm-3mm-wit/81046/ | 81046 |  
 
