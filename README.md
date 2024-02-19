@@ -58,4 +58,4 @@ For hardware the microcontroller will be used. We also use a AC/DC Power adapter
 /
 
 ## Sources
-bareconductive.com
+[bareconductive.com](https://www.bareconductive.com/)
