@@ -15,6 +15,12 @@ The interactive wall is a wall with tiles that are touch sensitive using the cap
   - [Introduction](#introduction)
   - [Discription](#discription)
   - [Bare Conductive Touch board](#bare-conductive-touch-board)
+  - [Installation and Usage](#installation-and-usage)
+  - [Software](#software)
+  - [Hardware](#hardware)
+  - [Team members and Roles](#team-members-and-roles)
+  - [Future Improvements](#future-improvements)
+  - [Sources](#sources)
 
 
 ##  Introduction 
@@ -30,3 +36,16 @@ The Bare Conductive Touch board is a capacitive touch sensing board that can be 
 ![Bare Conductive Touch board](./img/Bare-Conductive.jpg)
 
 We will use this board to make our project. With connectors we will connect the images on our board with the touch board. When the images are touched, the board will output a sound.
+
+## Installation and Usage
+
+## Software
+
+## Hardware
+
+## Team members and Roles
+
+## Future Improvements
+
+## Sources
+
