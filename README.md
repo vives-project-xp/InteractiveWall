@@ -26,6 +26,6 @@ The interactive wall is a wall with tiles that are touch sensitive using the cap
 ## Bare Conductive Touch board
 The Bare Conductive Touch board is a capacitive touch sensing board that can be used to turn any conductive material into a touch sensor. The board can be programmed to output different sounds when the electrodes are touched. The board can be programmed using the Arduino IDE.
 
-[![Bare Conductive Touch board](./img/Bare-Conductive.jpg)]
+![Bare Conductive Touch board](./img/Bare-Conductive.jpg)
 
 We will use this board to make our project. With connectors we will connect the images on our board with the touch board. When the images are touched, the board will output a sound.
