@@ -6,7 +6,7 @@ The interactive wall is a wall with tiles that are touch sensitive using the cap
 [Luca De Clerck](https://github.com/LucaClrk)  
 [Simon Haesaert](https://github.com/simonJIM)  
 [William Rogov](https://github.com/Rwill03)  
-[Unknown](https://github.com/Sha88y)  
+[Xander Desmet](https://github.com/Sha88y)  
 
 ## Table of content
 - [What is the interactive wall?](#what-is-the-interactive-wall)
@@ -38,14 +38,24 @@ The Bare Conductive Touch board is a capacitive touch sensing board that can be 
 We will use this board to make our project. With connectors we will connect the images on our board with the touch board. When the images are touched, the board will output a sound.
 
 ## Installation and Usage
+Using the Bare Conductive Touch Board is very easy. You can use it straight out of the box. Just plug it in and you are ready to go. You can choose the sounds you want to play using the SD-card. The sounds will then play when the electrodes are touched. 
+
 
 ## Software
+We will use Arduino IDE to program the Touch Board. Most of the default program will be used. But there are a few things that need extra programming. The Touch Board uses a lot of library so this provides a lot of abstraction, thus making it easier for us to program.
+
 
 ## Hardware
+For hardware the microcontroller will be used. We also use a AC/DC Power adapter to supply our microcontroller and speaker. They both work on 5V. 
 
 ## Team members and Roles
+- Luca De Clerck: Scrum Master
+- Simon Haesaert: Team member
+- William Rogov: Team member
+- Xander Desmet: Team member
 
 ## Future Improvements
+/
 
 ## Sources
-
+bareconductive.com
