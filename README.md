@@ -9,17 +9,12 @@ The interactive wall is a wall with tiles that are touch sensitive using the cap
 [Unknown](https://github.com/Sha88y)  
 
 ## Table of content
-- [Introduction](#introduction)
-- [Discription](#technologies-used)
-- [Installation and usage](#installation-and-usage)
-- [Hardware](#hardware)
-- [Software](#software)
-- [Team-members and their roles](#team-membersandtheirroles)
-- [The Sprints](#thesprints)
-- [Future improvements](#future-improvments)
-- [BOM](#BOM)
-- [Sources and links](#sources-and-links)
-- [Licences and author info](#Licences-and-author-info)
+- [What is the interactive wall?](#what-is-the-interactive-wall)
+  - [The Team](#the-team)
+  - [Table of content](#table-of-content)
+  - [Introduction](#introduction)
+  - [Discription](#discription)
+  - [Bare Conductive Touch board](#bare-conductive-touch-board)
 
 
 ##  Introduction 
