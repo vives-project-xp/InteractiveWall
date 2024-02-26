@@ -9,5 +9,7 @@
 | Mack Zelftappende schroeven 38x4,8 mm | HUBO | €6,29 | 2 | €12,58 | https://www.hubo.be/nl/p/mack-zelftappende-schroeven-pz2-38x4-8-mm-inox-6-stuks/209137/ | 209137 |
 
 | SKROSS AC/DC Power Supply | Farnell | €30 | 1 | €30 | https://be.farnell.com/skross/1-302422/euro-4x-usb-charger/dp/4265899 | 1.302422 |
+
+| Tesa dubbelzijdige kleefband | HUBO | €6,99 | 2 | €13,98 | https://www.hubo.be/nl/p/tesa-dubbelzijdige-kleefband-5m-x-50mm-geel/40249/ | 40249
  
 
