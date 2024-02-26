@@ -13,7 +13,7 @@ The interactive wall is a wall with tiles that are touch sensitive using the cap
   - [The Team](#the-team)
   - [Table of content](#table-of-content)
   - [Introduction](#introduction)
-  - [Discription](#discription)
+  - [Description](#description)
   - [Bare Conductive Touch board](#bare-conductive-touch-board)
   - [Installation and Usage](#installation-and-usage)
   - [Software](#software)
@@ -28,7 +28,7 @@ The interactive wall is a wall with tiles that are touch sensitive using the cap
 This is the READ.ME of the project  "Interactive Wall" which was created as a part of the coursework. This will contain information about the project, the requirements, the software used and the hardware implemented. It will also go over the team-members and their diverse roles in the projetc.
 
 ## Description
-The interactive wall is a wall with tiles that are touch sensitive using the capacitive touch sensing technology of the Bare Conductive Touch board. Each tile has its own output sound that comes from a speaker. The project contains a Animal-soundbord and a Piano-soundbord.
+The interactive wall is a wall with tiles that are touch sensitive using the capacitive touch sensing technology of the Bare Conductive Touch board. Each tile has its own output sound that comes from a speaker. The projetc contains a Animal-soundbord and a Piano-soundbord.
 
 ## Bare Conductive Touch board
 The Bare Conductive Touch board is a capacitive touch sensing board that can be used to turn any conductive material into a touch sensor. The board can be programmed to output different sounds when the electrodes are touched. The board can be programmed using the Arduino IDE.
@@ -38,7 +38,7 @@ The Bare Conductive Touch board is a capacitive touch sensing board that can be 
 We will use this board to make our project. With connectors we will connect the images on our board with the touch board. When the images are touched, the board will output a sound.
 
 ## Installation and Usage
-Using the Bare Conductive Touch Board is very easy. You can use it straight out of the box. Just plug it in and you are ready to go. You can choose the sounds you want to play using the SD-card. The sounds will then play when the electrodes are touched. 
+Using the Bare Conductive Touch Board is v ery easy. You can use it straight out of the box. Just plug it in and you are ready to go. You can choose the sounds you want to play using the SD-card. The sounds will then play when the electrodes are touched. 
 
 
 ## Software
