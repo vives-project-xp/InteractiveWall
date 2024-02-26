@@ -10,6 +10,8 @@
 
 | SL Power ME10A0503F01 Power Supply 5V,2A, 90-264V AC | RS-Components | €19,261 | 1 | €19,261 | https://ex-en.rs-online.com/product/sl-power-ault-condor-/me10a0503f01/70606691/ | 70606691 |   
 
-| Mack Zelftappende schroeven 38x4,8 mm | HUBO | €6,29 | 2 | €12,58 | https://www.hubo.be/nl/p/mack-zelftappende-schroeven-pz2-38x4-8-mm-inox-6-stuks/209137/ | 209137 |  
+| Mack Zelftappende schroeven 38x4,8 mm | HUBO | €6,29 | 2 | €12,58 | https://www.hubo.be/nl/p/mack-zelftappende-schroeven-pz2-38x4-8-mm-inox-6-stuks/209137/ | 209137 |
+
+| SKROSS AC/DC Power Supply | Farnell | €30 | 1 | €30 | https://be.farnell.com/skross/1-302422/euro-4x-usb-charger/dp/4265899 | 1.302422 |
  
 
