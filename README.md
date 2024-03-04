@@ -38,7 +38,9 @@ The Bare Conductive Touch board is a capacitive touch sensing board that can be 
 We will use this board to make our project. With connectors we will connect the images on our board with the touch board. When the images are touched, the board will output a sound.
 
 ## Installation and Usage
-Using the Bare Conductive Touch Board is v ery easy. You can use it straight out of the box. Just plug it in and you are ready to go. You can choose the sounds you want to play using the SD-card. The sounds will then play when the electrodes are touched. 
+Using the Bare Conductive Touch Board is very easy. You can use it straight out of the box. Just plug it in and you are ready to go. You can choose the sounds you want to play using the SD-card. The sounds will then play when the electrodes are touched. 
+
+To select new sounds or to switch which sounds play when a electrodes is touched, it is important to name the sounds correctly, for example: if you want that a sound will play if you touch electrode 1, then you will have to name the sounds "000". For electrode 2 "001" etc...
 
 
 ## Software
