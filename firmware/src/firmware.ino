@@ -40,13 +40,15 @@ void loop()
     
     //if button is pressed, toggle the folder value
     if (debounceState1 != lastButtonState1) {
-       
+        
+        Serial.print("Switching to folder 2");       
         soundsFolder = 2;
         lastButtonState1 = debounceState2;
 
     }
     if (debounceState2 != lastButtonState2) {
        
+        Serial.print("Switching to folder 1");
         soundsFolder = 1;
         lastButtonState2 = debounceState2;
     }
@@ -54,7 +56,9 @@ void loop()
     //if the touch sensor is touched play the corresponding sound from the folder
     for (int i = 0; i < NUM_SENSORS; i++) {    
         if (touchSensors[i] > tresHold) {       
-        dfPlayer.playFolder(soundsFolder, soundNumbers[i]);      
+        dfPlayer.playFolder(soundsFolder, soundNumbers[i]); 
+        Serial.print("Playing sound: ");
+        Serial.println(soundNumbers[i]);    
         break; // Exit loop after playing the sound   
         } 
     }
