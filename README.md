@@ -39,7 +39,7 @@ The interactive wall is a wall with tiles that are touch sensitive using the cap
 
 
 ##  Introduction 
-This is the READ.ME of the project  "Interactive Wall" which was created as a part of the coursework. This will contain information about the project, the requirements, the software used and the hardware implemented. It will also go over the team-members and their diverse roles in the projetc.
+This is the READ.ME of the project  "Interactive Wall" which was created as a part of the coursework. This will contain information about the project, the requirements, the software used and the hardware implemented. It will also go over the team-members and their diverse roles in the project.
 
 ## Description
 The interactive wall is a wall with tiles that are touch sensitive using the capacitive touch sensors available on the Bare Conductive Touch board and the ESP32. Each tile has its own output sound that comes from a speaker. The project contains a Animal-soundbord and a Piano-soundbord. The Bare Conductive Touch board is a capacitive touch sensing board that can be used to turn any conductive material into a touch sensor. The board can be programmed to output different sounds when the electrodes are touched. The board can be programmed using the Arduino IDE. The ESP32 microcontroller, we have chosen this microcontroller for its robust programming possibilities and fast processing speed, it has capacitive touch sensors and interfaces seamlessly with an MP3 player module that we need for this project. This combination enables efficient multitasking, versatile connectivity, and intuitive user interaction, making it ideal for our project. The ESP32 will give us more possibilities to improve our project. It will be easier to program and will open more options to us.
@@ -56,6 +56,8 @@ The audio will be played through a speaker. The speaker will be connected to the
 The image was printed through the webshop [Printshopz](https://www.printshopz.be/). We made it 200x120cm so it will fit the panel. The image will be put on the panel and will be used to make contact with the conductive paint. On the image there will be certain parts that will play a sound when touched. One of the images will be a farm, on this image there are multiple animals. So lets say there is a cow, when you touch the cow, you will make contact with the paint underneath it and the sound of a cow will play. 
 ## Bare Conductive Touch board
 The Bare Conductive Touch board is a capacitive touch sensing board that can be used to turn any conductive material into a touch sensor. The board can be programmed to output different sounds when the electrodes are touched. The board can be programmed using the Arduino IDE.
+
+The working of the microcontroller was secretive and not transparent, so we decided to reverse-engineer the controller. The research can be found in the folder "docs", named as "Research Bare Conductive Microcontroller".
 
 ![Bare Conductive Touch board](./img/Bare-Conductive.jpg)
 
@@ -79,7 +81,7 @@ The ESP32 will be harder to use, but gives us more versatility. To use the ESP32
 
 
 ## Software
-We will use PlatformIO to program the ESP32. This is an easy alternative to Arduino IDE and has all the libraries you possibly need. The Ardiuno EDI is used for the programming of the microcontrols. 
+We will use PlatformIO to program the ESP32. This is an easy alternative to Arduino IDE and has all the libraries you possibly need. The Ardiuno EDI is used for the programming of the bare conductive microcontrols. 
 
 
 
