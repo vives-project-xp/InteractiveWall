@@ -53,11 +53,12 @@ void loop()
     //if the touch sensor is touched play the corresponding sound from the folder
     for (int i = 0; i < NUM_SENSORS; i++) {    
         if (touchSensors[i] > tresHold) {       
-        dfPlayer.playFolder(soundsFolder, soundNumbers[i]);      
+        dfPlayer.playFolder(soundsFolder, soundNumbers[i]);
+        digitalWrite(LED_BUILTIN, HIGH);
         break; // Exit loop after playing the sound   
-        } 
+        }
     }
-      
+  digitalWrite(LED_BUILTIN, LOW);
 }
 
 int debounce(int buttonState) {
@@ -74,6 +75,5 @@ int debounce(int buttonState) {
     // Update the last button state
     lastButtonState  = buttonState;
   }
-
   return lastButtonState ;
 }
