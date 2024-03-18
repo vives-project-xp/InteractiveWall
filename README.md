@@ -79,7 +79,7 @@ The ESP32 will be harder to use, but gives us more versatility. To use the ESP32
 
 
 ## Software
-We will use PlatformIO to program the ESP32. This is an easy alternative to Arduino IDE and has all the libraries you possibly need. 
+We will use PlatformIO to program the ESP32. This is an easy alternative to Arduino IDE and has all the libraries you possibly need. The Ardiuno EDI is used for the programming of the microcontrols. 
 
 
 
