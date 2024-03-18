@@ -52,7 +52,7 @@ void loop()
 
     //if the touch sensor is touched play the corresponding sound from the folder
     for (int i = 0; i < NUM_SENSORS; i++) {    
-        if (touchSensors[i] > tresHold) {       
+        if (touchRead(touchSensors[i]) > tresHold) {       
         dfPlayer.playFolder(soundsFolder, soundNumbers[i]);
         digitalWrite(LED_BUILTIN, HIGH);
         break; // Exit loop after playing the sound   
