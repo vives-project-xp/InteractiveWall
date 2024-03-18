@@ -1,5 +1,5 @@
 # Interactive Wall
-![Interactive Wall](./img/soundboard.jpg)
+![Interactive Wall](./img/soundboard.png)
 ## About
 Welcome to the Interactive Wall project!  
 This project was created as part of the Project Experience course at [VIVES University of Applied Sciences](https://www.vives.be/en).  
