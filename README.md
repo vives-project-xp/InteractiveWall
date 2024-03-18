@@ -22,7 +22,7 @@ The interactive wall is a wall with tiles that are touch sensitive using the cap
   - [Introduction](#introduction)
   - [Description](#description)
   - [How it works](#how-it-works)
-    - [The panel](#the-panel)
+    - [Panel](#panel)
     - [Audio](#audio)
     - [Image](#image)
   - [Bare Conductive Touch board](#bare-conductive-touch-board)
@@ -46,7 +46,7 @@ The interactive wall is a wall with tiles that are touch sensitive using the cap
 
 ## How it works
 Each board has a microcontroller that will perform the tasks to make the soundboard work.
-### The panel
+### Panel
 The panel is made from wood and will be used to put the image on. It is quite a large board at 200x120cm. so We will paint the panel with conductive paint and put the image above it. So when someone touches the images on the right spot, you will make contact with the paint. There is a screw in the middle of each painted spot. This screw comes out at the backside and will make it possible to connect the panel with our microcontroller. Because of these screws we can wrap a copper wire around it and connect it to the microcontroller.
 
 ### Audio
