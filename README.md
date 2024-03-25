@@ -52,6 +52,9 @@ The panel is made from wood and will be used to put the image on. It is quite a 
 ### Audio
 The audio will be played through a speaker. The speaker will be connected to the microcontroller. So when contact is made the sounds will play through the speaker. We have a micro-SD card which we will put MP3 sounds on. This way we can choose the sounds we play and the length of them.
 
+
+NOTE: The order you copy the mp3 into micro SD card will affect the order mp3 played , which means play(1) function will play the first mp3 copied into micro SD card. This is only applicable for the ESP powered bord.
+
 ### Image
 The image was printed through the webshop [Printshopz](https://www.printshopz.be/). We made it 200x120cm so it will fit the panel. The image will be put on the panel and will be used to make contact with the conductive paint. On the image there will be certain parts that will play a sound when touched. One of the images will be a farm, on this image there are multiple animals. So lets say there is a cow, when you touch the cow, you will make contact with the paint underneath it and the sound of a cow will play. 
 ## Bare Conductive Touch board
