@@ -5,7 +5,7 @@ Welcome to the Interactive Wall project!
 This project was created as part of the Project Experience course at [VIVES University of Applied Sciences](https://www.vives.be/en).  
 The goal of this project was to create a Proof of Concept interactive wall that can play music when touching the board on certain places.   
 ## What is the interactive wall?  
-The interactive wall is a wall with tiles that are touch sensitive using the capacitive touch sensors available on the Bare Conductive Touch board and the ESP32. Each tile has its own output sound that comes from a speaker.
+The interactive wall is a wall with tiles that are touch sensitive using the capacitive touch sensors available on the Bare Conductive Touch board and the ESP32. Each tile has its own output sound that comes from a speaker. The sounds can change based on what you desire.
 
 ## The Team
 [Luca De Clerck](https://github.com/LucaClrk)  
@@ -45,7 +45,7 @@ This is the READ.ME of the project  "Interactive Wall" which was created as a pa
 The interactive wall is a wall with tiles that are touch sensitive using the capacitive touch sensors available on the Bare Conductive Touch board and the ESP32. Each tile has its own output sound that comes from a speaker. The project contains a Animal-soundbord and a Piano-soundbord. The Bare Conductive Touch board is a capacitive touch sensing board that can be used to turn any conductive material into a touch sensor. The board can be programmed to output different sounds when the electrodes are touched. The board can be programmed using the Arduino IDE. The ESP32 microcontroller, we have chosen this microcontroller for its robust programming possibilities and fast processing speed, it has capacitive touch sensors and interfaces seamlessly with an MP3 player module that we need for this project. This combination enables efficient multitasking, versatile connectivity, and intuitive user interaction, making it ideal for our project. The ESP32 will give us more possibilities to improve our project. It will be easier to program and will open more options to us.
 
 ## How it works
-Each board has a microcontroller that will perform the tasks to make the soundboard work.
+Each board has a microcontroller that will perform the tasks to make the soundboard work. The board can detecte "touch" thanks to the conductive paint, which is included in the Touch Board Starter Kit. The paint helps us to achive a sense of "interactiveness" , because the "touch" is not registered with a traditional button. This contributes to the premise of this project. 
 ### Panel
 The panel is made from wood and will be used to put the image on. It is quite a large board at 200x120cm. so We will paint the panel with conductive paint and put the image above it. So when someone touches the images on the right spot, you will make contact with the paint. There is a screw in the middle of each painted spot. This screw comes out at the backside and will make it possible to connect the panel with our microcontroller. Because of these screws we can wrap a copper wire around it and connect it to the microcontroller.
 
