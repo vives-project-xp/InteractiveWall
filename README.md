@@ -31,6 +31,7 @@ The interactive wall is a wall with tiles that are touch sensitive using the cap
     - [Bare Conductive Touch board](#bare-conductive-touch-board-1)
     - [ESP32](#esp32)
   - [Software](#software)
+    - [Grapher] (#grapher)
   - [Hardware](#hardware)
   - [Project State](#project-state)
   - [Team members and Roles](#team-members-and-roles)
@@ -84,7 +85,17 @@ The ESP32 will be harder to use, but gives us more versatility. To use the ESP32
 
 
 ## Software
-We will use PlatformIO to program the ESP32. This is an easy alternative to Arduino IDE and has all the libraries you possibly need. The Ardiuno EDI is used for the programming of the bare conductive microcontrols. 
+We will use PlatformIO to program the ESP32. This is an easy alternative to Arduino IDE and has all the libraries you possibly need. The Ardiuno EDI is used for the programming of the bare conductive microcontrols.
+
+### Grapher
+
+Grapher is a free software that is recommended by Bare Condcutive© for visualising the data. The grapher is a simple C++ program that "graphicaly" represent the data received from the pins of the Bare conductive microcontroller.
+
+![Grapher](./img/grapher.png)
+
+In this diagram, is pin 1 pressed.
+
+
 
 
 
