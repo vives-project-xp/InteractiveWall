@@ -83,6 +83,11 @@ To select new sounds or to switch which sounds play when a electrodes is touched
 ### ESP32
 The ESP32 will be harder to use, but gives us more versatility. To use the ESP32, you will first need to load the program we coded into it. You can do this by using the IDE or software program you choose. You will also need to connect the ESP32 to the MP3 player module. This will allow you to play sounds when the electrodes are touched. Lucky for you we chose for the DFRobotMiniPlayer which has a library making it easier to use and code. When the ESP32 is connected to the MP3 player module, you can connect the speaker to the MP3 player module. This will allow you to play sounds when the electrodes are touched. 
 
+### The Piano
+
+For the second board, we used the ESP32 as the microcontroller for controlling the piano. The piano consist of 5 keys and a seperate button. The seperate button is used to change the type of instrument. With this setup, it is simple to reproduce and replace the board and/or the sounds. The ESP32 
+![Grapher](./img/piano.jpg)
+
 
 ## Software
 We will use PlatformIO to program the ESP32. This is an easy alternative to Arduino IDE and has all the libraries you possibly need. The Ardiuno EDI is used for the programming of the bare conductive microcontrols.
@@ -94,6 +99,8 @@ Grapher is a free software that is recommended by Bare Condcutive© for visualis
 ![Grapher](./img/grapher.png)
 
 In this diagram, is pin 1 pressed.
+
+Grapher is especially handy for the debugging process, because it visualisize the  data coming from the touch sensor in real time, which saves a quite a bit of time.
 
 
 
