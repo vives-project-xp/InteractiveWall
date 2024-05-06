@@ -85,12 +85,12 @@ The ESP32 will be harder to use, but gives us more versatility. To use the ESP32
 
 ### The Piano
 
-For the second board, we used the ESP32 as the microcontroller for controlling the piano. The piano consist of 5 keys and a seperate button. The seperate button is used to change the type of instrument. With this setup, it is simple to reproduce and replace the board and/or the sounds. The ESP32 
+For the second board, we used the ESP32 as the microcontroller for controlling the piano. The piano consist of 5 keys and a seperate button. The seperate button is used to change the type of instrument. With this setup, it is simple to reproduce and replace the board and/or the sounds.
 ![Grapher](./img/piano.jpg)
 
 
 ## Software
-We will use PlatformIO to program the ESP32. This is an easy alternative to Arduino IDE and has all the libraries you possibly need. The Ardiuno EDI is used for the programming of the bare conductive microcontrols.
+We will use PlatformIO to program the ESP32. This is an easy alternative to Arduino IDE and has all the libraries you possibly need. The Ardiuno EDI is used for the programming of the bare conductive microcontrols as it is recommended.
 
 ### Grapher
 
@@ -100,17 +100,17 @@ Grapher is a free software that is recommended by Bare Condcutive© for visualis
 
 In this diagram, is pin 1 pressed.
 
-Grapher is especially handy for the debugging process, because it visualisize the  data coming from the touch sensor in real time, which saves a quite a bit of time.
+Grapher is especially handy for the debugging process, because it visualisize the incoming data from the touch sensor in real time, which saves quite a bit of time.
 
 
 
 
 
 ## Hardware
-For hardware the microcontroller will be used. We also use a AC/DC Power adapter to supply our microcontroller and speaker. They both work on 5V. 
+For hardware the microcontroller will be used (both the Bare Conductive and the ESP32). We also use a AC/DC Power adapter to supply our microcontroller and speaker. They both work on 5V. 
 
 ## Project State
-The project is currently in the development phase. The hardware is being tested and the software is being developed.
+The project is currently in the development phase. The first board is finsihed (in the sofware side, as in the hardware side). The second board is nearly finished. 
 
 ## Team members and Roles
 - Luca De Clerck: Scrum Master
