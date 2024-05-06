@@ -119,7 +119,7 @@ void setup() {
       case ADDRESS_UNKNOWN:
         Serial.println("incorrect address");
         break;
-      case READBACK_FAIL:
+      case READBACK_FAIL: 
         Serial.println("readback failure");
         break;
       case OVERCURRENT_FLAG:
