@@ -31,7 +31,7 @@ The interactive wall is a wall with tiles that are touch sensitive using the cap
     - [Bare Conductive Touch board](#bare-conductive-touch-board-1)
     - [ESP32](#esp32)
   - [Software](#software)
-    - [Grapher] (#grapher)
+    - [Grapher](#grapher)
   - [Hardware](#hardware)
   - [Project State](#project-state)
   - [Team members and Roles](#team-members-and-roles)
