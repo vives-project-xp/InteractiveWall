@@ -88,7 +88,7 @@ uint8_t lastPlayed = 0;
 SFEMP3Shield MP3player;
 
 // MP3 behaviour constants
-const bool REPLAY_MODE = true;  // by default, touching an electrode repeatedly will
+const bool REPLAY_MODE = false;  // by default, touching an electrode repeatedly will
                                 // play the track again from the start each time
                                 //
                                 // if you set this to false, repeatedly touching an
