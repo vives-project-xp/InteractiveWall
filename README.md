@@ -1,4 +1,4 @@
-# Interactive Wall
+§# Interactive Wall
 ![Interactive Wall](./img/soundboard.png)
 ## About
 Welcome to the Interactive Wall project!  
